@@ -1,2 +1,2 @@
-# mayura-alahakoon.github.io
+# www.mayuraalahakoon.me
 # this my portfolio website
