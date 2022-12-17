@@ -174,7 +174,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("./static/images/portfolio/bg.jpg");
+	background: url(".img/bg.jpg");
 	background-size: cover;
 }
 .banner-content{
