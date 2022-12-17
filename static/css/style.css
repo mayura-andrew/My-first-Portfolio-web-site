@@ -174,8 +174,9 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("./img/pakata-goh-EJMTKCZ00I0-unsplash.jpg");
+	background: url("/home/andrew/project/mayuraalahakoon.me/web-design-g32261f36c_1280.jpg" );
 	background-size: cover;
+	
 }
 .background {
 	background: url("./bg.jpg");
