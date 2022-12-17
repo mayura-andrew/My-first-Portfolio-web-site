@@ -174,7 +174,11 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("https://github.com/mayura-alahakoon/mayuraalahakoon.me/blob/main/img/bg.jpg");
+	background: url("./img/bg.jpg");
+	background-size: cover;
+}
+.background {
+	background: url("./img/bg.jpg");
 	background-size: cover;
 }
 .banner-content{
