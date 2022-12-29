@@ -1,2 +1,2 @@
-# www.mayuraalahakoon.me
-# this my portfolio  but it is not finish yet
+# https://mayura-alahakoon.github.io/My-first-Portfolio-web-site/
+# this my sample portfolio  but it is not finish yet 
